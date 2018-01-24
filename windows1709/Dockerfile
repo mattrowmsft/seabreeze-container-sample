@@ -8,4 +8,4 @@ RUN powershell -NoProfile -Command \
 
 EXPOSE 80
 
-ADD ../content/ /site
+ADD content/ /site
